@@ -32,7 +32,7 @@ delay = int(input())
 print("*Delay saved* \n")
 
 
-#counting down time left for switching window
+#counting down time left for switching tabs
 time = 11
 while time != 0:
     time -= 1
